@@ -1,0 +1,11 @@
+{
+  "version": "0.0.2",
+  "releaseDate": "2025-12-16",
+  "features": [
+    "新增版本自动更新检查功能",
+    "在 Footer 显示当前版本号",
+    "优化深色模式体验",
+    "修复若干已知问题"
+  ],
+  "downloadUrl": "https://github.com/browserwing/browserwing/releases/latest"
+}
